@@ -18,14 +18,17 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        //texto y/o imagenes
-        return View();
+        return View("Index");
     }
 
     public IActionResult Tutorial()
     {
-        //texto y/o imagenes
-        return View();
+        return View("Tutorial");
+    }
+
+    public IActionResult Creditos()
+    {
+        return View("Creditos");
     }
 
     public IActionResult Comenzar()

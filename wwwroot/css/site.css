@@ -12,6 +12,7 @@ html {
 
 body {
   margin: 20px 60px 0px 20px;
+  background-color: #f2e8cf;
 }
 
 footer {
@@ -19,3 +20,35 @@ footer {
   bottom: 0; 
   margin: 10px 0px 20px 0px;
 }
+
+.titulo {
+  font-family: "christmas";
+  font-size: 5em;
+  text-align: center;
+  color: #bc4749;
+  text-decoration: underline;
+  text-decoration-thickness: 0.05em;
+}
+
+.imagenes_centradas {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
+
+.links mark a{
+  text-decoration: none;
+  background-color:#a7c957;
+  color: #386641;
+  font-size: 2.5em;
+}
+
+.subtitulo{
+  font-family: "kindergarten";
+  font-size: 4em;
+  text-align: center;
+  color: #6a994e;
+}
+
