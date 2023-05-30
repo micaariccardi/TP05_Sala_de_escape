@@ -1,7 +1,7 @@
 class Escape 
 {
     private static string[] incognitasSalas = new string[4]; 
-    private static int estadoJuego = 1;
+    private static int estadoJuego = 0;
 
     private static void InicializarJuego()
     {
@@ -24,7 +24,7 @@ class Escape
         }
         else
         {
-            if (incognitasSalas[sala] == incognita)
+            if (incognitasSalas[sala] == incognita.ToUpper())
             {
                 estadoJuego++;
                 resuelto = true;

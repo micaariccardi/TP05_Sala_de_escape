@@ -53,3 +53,17 @@ footer {
   color: #6a994e;
 }
 
+.acertijos{
+  font-family:Verdana;
+  text-align: center;
+}
+
+.acertijos img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+

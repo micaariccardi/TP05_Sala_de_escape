@@ -1,0 +1,12 @@
+<h1 class="titulo">Oficina de Papá Noel</h1>
+
+<div class="acertijos">
+    <h3>@ViewBag.acertijo</h3>
+    <img src="/imagenes/mesa_ratona.png">
+
+    <br>
+    <form href='@Url.Action("Habitacion(sala, clave)")'>
+        <input type="text" id="clave" name="clave" value="Respuesta"><br>
+        <input type="submit" value="Enviar">
+    </form> 
+</div>
