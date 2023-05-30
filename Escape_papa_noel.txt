@@ -1,0 +1,36 @@
+PRIMER CUARTO: Donde te despertas
+ Acertijo: Te despertas en un sillón en un cuarto desconocido, lentamente recordas como llegaste. En resumen: te secuestró tu ídolo de la infancia, Papá Noel. Intentas abrir la puerta, sin éxito. Lo volves a intentar. Uh, no era porque empujaste en vez de tirar, quizás esté más relacionado con que pide un código númerico. Pensas en resignarte a tu nueva vida como elfo ayudante y comer las galletitas en la mesa ratona como consuelo. Tras más inspección, al lado del plato hay un papel que dice: "FELIZ navidad". Es mayo, por lo que decidis que tenés que irte en seguida para evitar el espíritu navideño permanente ¿Qué contraseña ponés en la puerta? 
+ Respuesta: 6591227
+ Pista: ¿Hay números que correspondan a las letras?
+
+Dsp de respuesta correcta: Tenías razón la primera vez que intentaste mover la puerta, se abre para afuera.
+
+SEGUNDO CUARTO: bódega con regalos 
+ Acertijo: Entras en un cuarto aún más grande, está lleno de cajas envueltas, que entran desorganizadamente por una cinta transportadora en un agujero en la pared . Al lado hay una puerta con un cartel ¿Cómo se supone que vas a abrirla esta vez? Hay un enorme mueble con montones de cajoncitos enumerados. En uno de estos seguro está la llave de la puerta, pero revisar todos te va a tomar una eternidad ¿Cuál miras?
+Decidis lees el cartel en la puerta, tiene un problema matematico: (210 + 532 + 7 - 59 + 7910 - 1 - 82) x 0 = ¿?   
+ Respuesta: 0
+ Pista: Repasa las tablas.
+
+Dsp de respuesta correcta: No hay cajón cero, te apoyas en la puerta para descansar y pensar mejor. Estaba abierta, te caes.
+
+TERCER CUARTO: lugar de trabajo de los elfos
+ Acertijo: Te recuperas rápidamente de la caída para mantener tu dignidad. Aunque no parece importarle a los ocupados elfos a tu alrededor, ignoran tu presencia por el bien del trabajo. Parece estresante. Vas a la puerta admirando los juguetes en proceso de armado. No podes abrirla, casi seguro porque pide un código numérico. Esperas una epifanía mientras lees la lista de juguetes para armar:
+
+1 ---------- ROMPECABEZA
+4 ---------- MUÑECA
+1 ---------- GOGOS
+6 ---------- DINOSAURIO
+3 ---------- HELICOPTERO
+3 ---------- BLOQUES
+
+ Respuesta: REGALO
+ Pista: Fijate la letra de cada palabra en la posición del número. 
+
+Dsp de respuesta correcta: Abris la puerta y pasas al cuarto cuarto.
+
+CUARTO CUARTO: establo de renos
+ Acertijo: Estás en un establo lleno de renos. Te emocionas, al fin vas a poder salir. Antes de esa emergencia te encargas de una más urgente: detenerte a acariciar a los animales. Lees sus nombres: Rodolfo, Cupido, Trueno y Cometa. Finalmente te acercas a la puerta que necesita un código númerico (¿Cómo hace alguien para acordase de todos estos? Quizás por eso hay pistas tan convenientes) ¿Qué código ponés?
+ Respuesta: 7666
+ Pista: ¿Cuántas letras tiene cada nombre?
+
+Dsp de respuesta correcta: Lograste escapar, ahora vas a poder contarle la verdad de Papá Noel al mundo.
