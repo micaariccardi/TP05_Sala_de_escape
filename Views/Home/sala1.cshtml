@@ -5,8 +5,9 @@
     <img src="/imagenes/mesa_ratona.png">
 
     <br>
-    <form href='@Url.Action("Habitacion(sala, clave)")'>
-        <input type="text" id="clave" name="clave" value="Respuesta"><br>
+    <form action='@Url.Action("Habitacion")' method="post">
+        <input type="hidden" name="sala" value="0">
+        <input type="password" name="clave" placeholder="Respuesta"><br>
         <input type="submit" value="Enviar">
     </form> 
 </div>

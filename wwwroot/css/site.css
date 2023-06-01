@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'Christmas';
+  src:  url('../fuentes/christmas.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'KinderGarten';
+  src:  url('../fuentes/kindergarten.ttf') format('truetype');
+}
+
 html {
   font-size: 14px;
   position: relative;
@@ -22,7 +31,7 @@ footer {
 }
 
 .titulo {
-  font-family: "christmas";
+  font-family: 'Christmas';
   font-size: 5em;
   text-align: center;
   color: #bc4749;
@@ -58,8 +67,8 @@ footer {
   text-align: center;
 }
 
-.acertijos img{
-  display: block;
+.acertijos img[src*="mesa"]{
+  display:block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;

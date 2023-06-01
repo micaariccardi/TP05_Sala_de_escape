@@ -1,1 +1,13 @@
-<h1 class="titulo">cuarto 2</h1>
+<h1 class="titulo">Almacén de Regalos</h1>
+
+<div class="acertijos">
+    <h4>@ViewBag.acertijo</h4>
+    <img src="/imagenes/teclado_numerico.png" height=400px>
+
+    <br>
+    <form action='@Url.Action("Habitacion")' method="post">
+        <input type="hidden" name="sala" value="1">
+        <input type="password" name="clave" placeholder="Respuesta"><br>
+        <input type="submit" value="Enviar">
+    </form> 
+</div>

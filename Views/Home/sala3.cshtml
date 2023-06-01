@@ -1,1 +1,13 @@
-<h1 class="titulo">cuarto 3</h1>
+<h1 class="titulo">Taller de la Imaginación</h1>
+
+<div class="acertijos">
+    <h4>@ViewBag.acertijo</h4>
+    <img src="/imagenes/lista_juguetes.jpg" height=700px>
+
+    <br>
+    <form action='@Url.Action("Habitacion")' method="post">
+        <input type="hidden" name="sala" value="2">
+        <input type="password" name="clave" placeholder="Respuesta"><br>
+        <input type="submit" value="Enviar">
+    </form> 
+</div>

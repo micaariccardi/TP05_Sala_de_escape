@@ -1,1 +1,13 @@
-<h1 class="titulo">cuarto 4</h1>
+<h1 class="titulo">Establo de Renos</h1>
+
+<div class="acertijos">
+    <h4>@ViewBag.acertijo</h4>
+    <img src="/imagenes/renos.png" height=350px>
+
+    <br>
+    <form action='@Url.Action("Habitacion")' method="post">
+        <input type="hidden" name="sala" value="3">
+        <input type="password" name="clave" placeholder="Respuesta"><br>
+        <input type="submit" value="Enviar">
+    </form> 
+</div>
