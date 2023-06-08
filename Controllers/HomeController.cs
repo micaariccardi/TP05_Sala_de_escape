@@ -13,12 +13,11 @@ public class HomeController : Controller
         "Estás en un establo lleno de renos. Te emocionas, al fin vas a poder salir. Antes de esa emergencia te encargas de una más urgente: detenerte a acariciar a los animales. Lees sus nombres: Rodolfo, Cupido, Trueno y Cometa. Finalmente te acercas a la puerta que necesita un código númerico (¿Cómo hace alguien para acordase de todos estos? Quizás por eso hay pistas tan convenientes) ¿Qué código ponés?"
         };
     string[] salaViews = {"sala1", "sala2", "sala3", "sala4"};
-    string[] transicionTexto = {"Tenías razón la primera vez que intentaste mover la puerta, se abre para afuera.", "No hay cajón cero, te apoyas en la puerta para descansar y pensar mejor. Estaba abierta, te caes.", "Abris la puerta y pasas al cuarto cuarto.","VICTORIA"};
+    string[] transicionTexto = {"Tenías razón la primera vez que intentaste mover la puerta, se abre para afuera.", "No hay cajón cero, te apoyas en la puerta para descansar y pensar mejor. Estaba abierta, te caes.", "Abris la puerta y pasas al cuarto cuarto.","Lograste escapar!!! Ahora podés contarle al mundo la verdad sobre Papá Noel. (y claramente te van a creer)"};
     string[] transicionGif = {"gif1.gif", "gif2.gif", "gif3.gif","gif4.gif"};
 
     public IActionResult Index()
     {
-        
         return View("Index");
     }
 

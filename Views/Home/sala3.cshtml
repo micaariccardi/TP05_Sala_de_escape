@@ -2,12 +2,13 @@
 
 <div class="acertijos">
     <h4>@ViewBag.acertijo</h4>
-    <img src="/imagenes/lista_juguetes.jpg" height=700px>
+    <img src="/imagenes/lista_juguetes.png" height=700px>
 
     <br>
     <form action='@Url.Action("Habitacion")' method="post">
         <input type="hidden" name="sala" value="2">
         <input type="password" name="clave" placeholder="Respuesta"><br>
         <input type="submit" value="Enviar">
+        <button onclick="alert('Fijate la letra de cada palabra en la posición del número. ')"> Pista </button>
     </form> 
 </div>

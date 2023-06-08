@@ -11,6 +11,7 @@ html {
   font-size: 14px;
   position: relative;
   min-height: 100%;
+  font-family:Verdana;
 }
 
 @media (min-width: 768px) {
@@ -43,9 +44,12 @@ footer {
   text-align: center;
 }
 
+.imagenes_centradas img {
+  border: 5px solid #386641;
+}
+
 .links {
   text-align: center;
-  font-family:Verdana;
 }
 
 .links mark a{
@@ -72,6 +76,11 @@ footer {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.transicion
+{
+  text-align: center;
 }
 
 

@@ -1,8 +1,19 @@
-<h1>pasaste de sala (this is a placeholder :D)</h1>
-
 @if(ViewBag.sala != 3)
-{
+{   
+    <div class="transicion">
+    <h1 class="titulo">Lo Lograste!</h1>
+    <h3>@ViewBag.texto</h3> 
+    <img src="/imagenes/@ViewBag.gif" width=450em>
     <form action='@Url.Action("Transicion")'>
-    <input type="submit" value="SIGA SU CAMINO, AVENTURERO">
+    <input type="submit" value="Proxima sala">
     </form>
+    </div>
+}
+else
+{
+    <div class="transicion">
+        <h1 class="titulo">Victoria!</h1>
+        <h3>@ViewBag.texto</h3>
+        <img src="/imagenes/@ViewBag.gif" width=450em>
+    </div>
 }
